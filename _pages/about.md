@@ -1,28 +1,36 @@
 ---
 
-title: "About David Florian"
+title: "About Jake Feldman"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Jake is a Junior at Vanderbilt University, majoring in architecture and the built environment and minoring in digital fabrication, alongside business and music. Here is some information on Jake's work throughout his education:
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * President, Vanderbilt Architecture Society
+  * Completed Summer Program with Columbia University Graduate School of Architecture, Planning, and Preservation
+  * Dean's List Fall 2024-Spring 2026
+* American Heritage Schools
+  * [Mi Casa Su Casa](micasasucasa.online) affordable and sustainable housing advocacy
+  * [Hole in Two](holeintwo.org) Golf donation and coaching
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Jake can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. Jake has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
 * Stereolithography (SLA)
 * Selective Laser Sintering (SLS)
 * 3D Inkjet Printing
 * Bioplotting
+
+Jake also has experience with computer aided design (CAD) software, such as:
+
+* Sketchup
+* Bluebeam
+* Revit
 
 ## Press 
 
