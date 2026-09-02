@@ -12,6 +12,7 @@ excerpt: "Jake Feldman is an architecture major at Vanderbilt University, comple
 feature_row:
 
 ## Architectural Experience
+
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "Columbia GSAPP"
     title: "Columbia GSAPP Summer Program"
