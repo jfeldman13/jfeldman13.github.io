@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Jake Feldman is a Junior at Vanderbilt University, majoring in architecture, as well as completing the digital fabrication course, organized by Dr. David Florian. This page features Jake's digital fabrication work from Vanderbilt's rapid prototyping and additive manufacturing courses, in addition to other personal information and accolades."
+excerpt: "Jake Feldman is an architecture major at Vanderbilt University, completing the Digital Fabrication course, organized by Dr. David Florian. This page features Jake's digital fabrication work from Vanderbilt's Rapid Prototyping and Additive Manufacturing courses, in addition to other personal information and accolades."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
