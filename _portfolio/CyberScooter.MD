@@ -2,8 +2,8 @@
 title: "Syringe Pump Actuator"
 excerpt: "This syringe pump actuator utilizes an automated, micro-stepping motor to deliver precise, adjustable fluid flow for lab or medical use."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/ad28b3d3-b9d0-446e-a83e-f9b2202efa1d.jpg
+  teaser: /assets/img/ad28b3d3-b9d0-446e-a83e-f9b2202efa1d.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
