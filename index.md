@@ -27,7 +27,27 @@ feature_row:
     excerpt: "Collaborated with contractors, owners, clients, and superintendents, from ideation to post-construction"
 ---
 
-# 🏛️ Architectural Experience
+#  Architectural Experience
 
 {% include feature_row %}
+
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.feature__wrapper {
+  .archive__item-teaser {
+    height: 220px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+}
 
