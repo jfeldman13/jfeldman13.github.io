@@ -27,20 +27,20 @@ feature_row:
     excerpt: "Collaborated with contractors, owners, clients, and superintendents, from ideation to post-construction"
 ---
 
-#  Architectural Experience
+<style>
+.feature__wrapper .archive__item-teaser {
+  height: 220px;
+  overflow: hidden;
+}
+
+.feature__wrapper .archive__item-teaser img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+</style>
+
+# Architectural Experience
 
 {% include feature_row %}
-
-.feature__wrapper {
-  .archive__item-teaser {
-    height: 220px;
-    overflow: hidden;
-
-    img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center;
-    }
-  }
-}
