@@ -1,0 +1,64 @@
+#include <AccelStepper.h>
+
+const float FLOW_RATE = 1.8; // mL/min
+const float SYRINGE_DIAMETER = 19.21; // (14.92mm for 10mL syringe, 19.21mm for 20mL syringe)
+
+
+// Pin definitions
+const int BUTTON_PIN = 7;
+const int LIMIT_PIN = 8;
+const int LED_RED = 9;
+const int LED_GREEN = 10;
+
+AccelStepper stepper(AccelStepper::DRIVER, 2, 3);
+
+// Variables and Constants
+float motorSpeed = 0;
+const float STEPS_PER_REV = 200;
+const float MICROSTEPS = 16;
+const float SCREW_LEAD = 2;
+
+
+void setup() {
+// Arduino I/O pin setup
+pinMode(BUTTON_PIN, INPUT_PULLUP);
+pinMode(LIMIT_PIN, INPUT_PULLUP);
+pinMode(LED_RED, OUTPUT);
+pinMode(LED_GREEN, OUTPUT);
+// Stepper setup, pins inverted because runs wrong way by default
+stepper.setMaxSpeed(1000);
+stepper.setSpeed(0);
+stepper.setPinsInverted(true);
+
+// Calculation for motor speed using physical constants
+float area = PI * (SYRINGE_DIAMETER / 2.0) * (SYRINGE_DIAMETER / 2.0); // mm^2
+float volumePerRev = area * SCREW_LEAD / 1000.0; // mL
+float stepsPerMin = FLOW_RATE / volumePerRev * STEPS_PER_REV * MICROSTEPS; // steps/min
+motorSpeed = stepsPerMin / 60.0; // steps/sec
+}
+
+void loop() {
+// Boolean representing the state of each interface: true means pressed, else not
+bool button = digitalRead(BUTTON_PIN) == LOW;
+bool limit = digitalRead(LIMIT_PIN) == HIGH;
+
+// Running state
+if (button && !limit) {
+stepper.setSpeed(motorSpeed);
+analogWrite(LED_GREEN, 255);
+digitalWrite(LED_RED, LOW);
+} else {
+stepper.setSpeed(0);
+// Limit hit state
+if (limit) {
+digitalWrite(LED_RED, HIGH);
+analogWrite(LED_GREEN, 0);
+// Idol state
+} else {
+digitalWrite(LED_RED, HIGH);
+analogWrite(LED_GREEN, 60);
+}
+}
+
+stepper.runSpeed();
+}
