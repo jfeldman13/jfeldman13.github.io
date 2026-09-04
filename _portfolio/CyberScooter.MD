@@ -1,6 +1,6 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Syringe Pump Actuator"
+excerpt: "This syringe pump actuator utilizes an automated, micro-stepping motor to deliver precise, adjustable fluid flow for lab or medical use."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
@@ -16,6 +16,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+The syringe pump actuator uses a micro-stepping stepper motor, coupled to a threaded lead screw, to precisely and smoothly dispense fluid from either a 10 mL or 20 mL syringe. To operate the pump, the syringe is first filled and positioned into the actuator by the user. After proper set-up, the Arduino code is set to the desired flow_rate and syringe_diameter values. The Arduino is disconnected, the power supply is plugged in, and a yellow LED confirms the system is idle and ready. Pressing the latching start/stop button turns the LED green and activates the motor, driving the carriage forward at the pre-set speed to empty the syringe. If the plunger reaches full displacement, a limit switch signals the system to stop the motor and turn the LED red, indicating the syringe is empty, and the device can be safely powered down.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
