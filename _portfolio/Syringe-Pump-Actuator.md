@@ -70,4 +70,3 @@ To operate the pump, the syringe is first filled and positioned into the actuato
 | 5 | Carriage | 1 |
 | 6 | End-Support - Holds Syringe Tip | 1 |
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
