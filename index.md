@@ -31,12 +31,6 @@ feature_row:
 
 {% include feature_row %}
 
----
----
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
 .feature__wrapper {
   .archive__item-teaser {
     height: 220px;
@@ -50,4 +44,3 @@ feature_row:
     }
   }
 }
-
