@@ -27,9 +27,6 @@ To operate the pump, the syringe is first filled and positioned into the actuato
 
 # Off the Shelf Parts
 
-<details>
-<summary>📋 Click to View Full Parts List (35 Parts)</summary>
-
 | # | Part Name | Quantity |
 |---|-----------|----------|
 | 1 | Power Cord Hole Plug | 1 |
@@ -62,12 +59,7 @@ To operate the pump, the syringe is first filled and positioned into the actuato
 | 28 | Housing | 1 |
 | 29 | Housing Cover | 1 |
 
-</details>
-
 # 3D Printed Parts
-
-<details>
-<summary>📋 Click to View Full Parts List (35 Parts)</summary>
 
 | # | Part Name | Quantity |
 |---|-----------|----------|
@@ -77,8 +69,5 @@ To operate the pump, the syringe is first filled and positioned into the actuato
 | 4 | End-Support - Flange Slots | 1 |
 | 5 | Carriage | 1 |
 | 6 | End-Support - Holds Syringe Tip | 1 |
-
-</details>
-
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
