@@ -2,8 +2,8 @@
 title: "Multimaterial Pliers"
 excerpt: "These mutlimaterial pliers were 3D printed with both PLA and TPU to create handles and jaws which can flexibly pinch back and forth."
 header:
-  image: /assets/img/ad28b3d3-b9d0-446e-a83e-f9b2202efa1d.jpg
-  teaser: /assets/img/ad28b3d3-b9d0-446e-a83e-f9b2202efa1d.jpg
+  image: assets/img/Plier_Render.jpg
+  teaser: assets/img/Plier_Render.jpg
 
 toc: true
 toc_label: "Table of Contents"
