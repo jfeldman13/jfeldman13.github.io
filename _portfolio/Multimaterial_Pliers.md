@@ -34,7 +34,7 @@ As mentioned, [hinges](https://www.howtogeek.com/print-in-place-models-are-the-r
 
 # Specifications
 
-| 1 | Parameter | Length (mm) |
+| # | Parameter | Length (mm) |
 |---|-----------|----------|
 | 1 | Flexible Portion Side | 30 |
 | 2 | Dovetail Long Side | 5.25 |
@@ -51,14 +51,14 @@ As mentioned, [hinges](https://www.howtogeek.com/print-in-place-models-are-the-r
 
 # Print Settings
 
-| # | Part Name | Quantity |
-|---|-----------|----------|
-| 1 | Motor-Mounting-Plate | 1 |
-| 2 | Flexible Coupler | 1 |
-| 3 | End-Support-Regular | 1 |
-| 4 | End-Support - Flange Slots | 1 |
-| 5 | Carriage | 1 |
-| 6 | End-Support - Holds Syringe Tip | 1 |
+| Feature | Info |
+|---|-----------|
+| Perimeters | 0 |
+| Top Layers (Flexible Portion) | 0 |
+| Bottom Layers (Flexible Portion) | 0 |
+| Fill Density (Flexible Portion) | 23% |
+| Nozzle | 0.6mm (Blue) |
+| Material Used | TPU (Flexible Portion), PLA (Jaws, Handles) |
 
 feature_row:
   - image_path: /assets/img/1eb0a8a4-f6f9-4697-b6a6-7270331bfa4d.jpg
