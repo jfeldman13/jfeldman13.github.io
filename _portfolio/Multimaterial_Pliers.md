@@ -30,7 +30,7 @@ Both the jaws and handles are made from PLA, a stronger plastic in comparison to
 
 Print‑in‑place parts are 3D‑printed mechanisms designed with built‑in clearance gaps. These allow hinges, joints, and similar connecting interfaces to move in tandem to each other. This plier model is a prime example of the print-in-place method, as two plastic materials with different purposed were incorporated together to create a single product. PLA and TPU tend to work well for print-in-place technology because their typical printing temperatures overlap, and can connect well through interlocking techniques. 
 
-As mentioned, [hinges](/https://www.howtogeek.com/print-in-place-models-are-the-real-magic-of-3d-printing/) are a very practical application of print-in-place parts.
+As mentioned, [hinges](https://www.howtogeek.com/print-in-place-models-are-the-real-magic-of-3d-printing) are a very practical application of print-in-place parts.
 
 # Specifications
 
