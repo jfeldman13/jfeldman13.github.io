@@ -106,3 +106,5 @@ feature_row:
   object-fit: cover;
   object-position: center;
 }
+
+{% include feature_row %}
