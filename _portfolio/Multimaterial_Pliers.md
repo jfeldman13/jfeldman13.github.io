@@ -77,4 +77,18 @@ Print‑in‑place parts are 3D‑printed mechanisms designed with built‑in cl
 | 5 | Carriage | 1 |
 | 6 | End-Support - Holds Syringe Tip | 1 |
 
+feature_row:
+  - image_path: /assets/img/1eb0a8a4-f6f9-4697-b6a6-7270331bfa4d.jpg
+    alt: "Columbia GSAPP Summer Program"
+    title: "Columbia GSAPP Summer Program"
+    excerpt: "Reimagined Columbia's Business School and Housing through innovative design and experimentation."
 
+  - image_path: /assets/img/51d189eb-0e2f-4748-a632-9fa1ad18262f.png
+    alt: "Rock Creek Property Group"
+    title: "Rock Creek Property Group"
+    excerpt: "Designed and presented a building proposal for a multi-use high rise."
+
+  - image_path: /assets/img/6bf98a82-6028-4241-bd25-b51657dc3693.jpg
+    alt: "Sshape Architecture and Interior Design"
+    title: "Sshape Architecture and Interior Design"
+    excerpt: "Collaborated with contractors, owners, clients, and superintendents, from ideation to post-construction."
