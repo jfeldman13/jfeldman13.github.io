@@ -13,7 +13,8 @@ toc_icon: bars
 
 The intention of this project is to create a functional plier design on Fusion, and incorporate multimaterial 3D-printing methods to construct a physical product. These pliers are capable of presisely picking up a through hole resistor, whose diameter measures only about 2.5mm.
 
-image: assets/img/giphy_pliers.mp4
+![Plier_GIF](assets/img/giphy_pliers.mp4)
+
 
 # CAD Model
 
