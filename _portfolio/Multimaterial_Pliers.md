@@ -30,43 +30,26 @@ Both the jaws and handles are made from PLA, a stronger plastic in comparison to
 
 Print‑in‑place parts are 3D‑printed mechanisms designed with built‑in clearance gaps. These allow hinges, joints, and similar connecting interfaces to move in tandem to each other. This plier model is a prime example of the print-in-place method, as two plastic materials with different purposed were incorporated together to create a single product. PLA and TPU tend to work well for print-in-place technology because their typical printing temperatures overlap, and can connect well through interlocking techniques. 
 
-As mentioned, [hinges](https://www.howtogeek.com/print-in-place-models-are-the-real-magic-of-3d-printing) are a very practical application of print-in-place parts.
+As mentioned, [hinges](https://www.howtogeek.com/print-in-place-models-are-the-real-magic-of-3d-printing) are a very practical application of print-in-place parts. This is because by utilizing the print-in-place method, users can bypass an extra assembly step, as the product assembles itself. Chain links, nuts and bolts, and balls and sockets are additional print-in-place options.
 
 # Specifications
 
-| # | Part Name | Quantity |
+| 1 | Parameter | Length (mm) |
 |---|-----------|----------|
-| 1 | Power Cord Hole Plug | 1 |
-| 2 | 91290A115 Alloy Steel Socket Head Screw | 8 |
-| 3 | Plastic_Body | 1 |
-| 4 | Button | 1 |
-| 5 | Contact1 | 1 |
-| 6 | Metal_Body | 1 |
-| 7 | LED 10mm White | 1 |
-| 8 | Contact2 | 1 |
-| 9 | 91290A222 Alloy Steel Socket Head Screw | 14 |
-| 10 | Nut-tr8x8-4 | 1 |
-| 11 | Linear-Rod-8mmx200mm | 1 |
-| 12 | Rubber Tampon 20ml | 1 |
-| 13 | Syringe Cylinder 20ml | 1 |
-| 14 | LM8UU Linear Bearing | 1 |
-| 15 | Syringe Piston 20ml | 1 |
-| 16 | V-Slot 20x40x350 | 1 |
-| 17 | 91290A113 Alloy Steel Socket Head Screw | 2 |
-| 18 | NEMA-17 Motor | 1 |
-| 19 | Lead-Screw-TR8x8x250mm | 1 |
-| 20 | M5-Tee-Nut | 13 |
-| 21 | Default (1) | 2 |
-| 22 | 91390A403 Alloy Steel Cup-Point Set Screw | 2 |
-| 23 | 99461A941 Phillips Rounded Head Thread-Forming Screws | 6 |
-| 24 | Housing Removable Panel | 1 |
-| 25 | LED Hole Plug | 1 |
-| 26 | Lead-Screw-SubAssembly | 1 |
-| 27 | SWITCH_LIMITE | 1 |
-| 28 | Housing | 1 |
-| 29 | Housing Cover | 1 |
+| 1 | Flexible Portion Side | 30 |
+| 2 | Dovetail Long Side | 5.25 |
+| 3 | Dovetail Short Side | 3 |
+| 4 | Dovetail to Corner | 3.75 |
+| 5 | Jaw Interior Height | 131.25 |
+| 6 | Jaw Exterior Height A | 75 |
+| 7 | Jaw Exterior Height B | 37.5 |
+| 8 | Handle Interior Height A | 63.75 |
+| 9 | Handle Interior Height B | 30 |
+| 10 | Handle Exterior Height A | 75 |
+| 11 | Handle Exterior Height B | 56.25 |
+| 12 | Width | 11.25 |
 
-# 3D Printed Parts
+# Print Settings
 
 | # | Part Name | Quantity |
 |---|-----------|----------|
