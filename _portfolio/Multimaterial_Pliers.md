@@ -10,7 +10,6 @@ toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
 
----
 The intention of this project is to create a functional plier design on Fusion, and incorporate multimaterial 3D-printing methods to construct a physical product. These pliers are capable of presisely picking up a through hole resistor, whose diameter measures only about 2.5mm.
 
 # CAD Model
@@ -92,8 +91,9 @@ feature_row:
     alt: "Sshape Architecture and Interior Design"
     title: "Sshape Architecture and Interior Design"
     excerpt: "Collaborated with contractors, owners, clients, and superintendents, from ideation to post-construction."
+
 ---
-    <style>
+  <style>
 .feature__wrapper .archive__item-teaser {
   height: 220px;
   overflow: hidden;
