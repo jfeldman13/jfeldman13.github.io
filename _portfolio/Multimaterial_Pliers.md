@@ -20,7 +20,11 @@ The intention of this project is to create a functional plier design on Fusion, 
 
 # Design Description
 
-To operate the pump, the syringe is first filled and positioned into the actuator by the user. After proper set-up, the Arduino code is set to the desired flow_rate and syringe_diameter values. The Arduino is disconnected, the power supply is plugged in, and a yellow LED confirms the system is idle and ready. Pressing the latching start/stop button turns the LED green and activates the motor, driving the carriage forward at the pre-set speed to empty the syringe. If the plunger reaches full displacement, a limit switch signals the system to stop the motor and turn the LED red, indicating the syringe is empty, and the device can be safely powered down.
+The design of these pliers is divided into three distinct sections: the jaws, handles, and flexible portion. The flexible portion, composed of TPU, is an intersection between the handles and jaws which can internally cave in. This allows for the harder parts of the plier to pinch in and out easily. The most important feature of the flexible section is the ability to strongly connect to both the handles and jaws, so that the plier as a whole is one coherent piece that all moves simultaneously. To ensure this cohesion, the perimeter of the flexible portion is drafted with a "dovetail" design. Each side of the square piece has four "dovetails," which are triangular surfaces embedded into the piece, that serve as a jigsaw-like fit between the flexible portion and the handles and jaws, respectively.
+
+The design of both he handles and jaws are relatively simple. The interior of the jaws run parallel to the y-axis to a singular tip at the end, for picking up and moving parts. The outside of the jaws are bulkier on the bottom to give better stability and establish greater surface area with the flexible portion. The handles span diagonally outward to allow for a better grip. 
+
+Both the jaws and handles are made from PLA, a stronger plastic in comparison to PLA. To test appropriate lengths for an ideal model, many dimensions of the project are parameterized, including handle and jaw lengths, flexible portion and dovetail widths, and overall thickness of the plier.
 
 # Print-in-Place Parts
 
