@@ -15,7 +15,7 @@ feature_row:
     alt: "Columbia GSAPP Summer Program"
     title: "Columbia GSAPP Summer Program"
     excerpt: "Reimagined Columbia's Business School and Housing through innovative design and experimentation."
-  - image_path: /assets/img/51d189eb-0e2f-4748-a632-9fa1ad18262f.png
+  - image_path: assets/img/3d-printed-toolbox-with-hinge-in-view.avif
     alt: "Rock Creek Property Group"
     title: "Rock Creek Property Group"
     excerpt: "Designed and presented a building proposal for a multi-use high rise."
