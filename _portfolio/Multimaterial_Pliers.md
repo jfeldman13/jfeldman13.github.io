@@ -11,7 +11,7 @@ toc_sticky: true
 toc_icon: bars
 
 feature_row:
-  - image_path: /assets/img/1eb0a8a4-f6f9-4697-b6a6-7270331bfa4d.jpg
+  - image_path: assets/img/Plier_IRL.jpeg
     alt: "Columbia GSAPP Summer Program"
     title: "Columbia GSAPP Summer Program"
     excerpt: "Reimagined Columbia's Business School and Housing through innovative design and experimentation."
