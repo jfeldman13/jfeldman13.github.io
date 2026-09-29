@@ -78,7 +78,7 @@ As mentioned, [hinges](https://www.howtogeek.com/print-in-place-models-are-the-r
 
 <style>
 .feature__wrapper .archive__item-teaser {
-  height: 350px;
+  height: 250px;
   overflow: hidden;
 }
 
