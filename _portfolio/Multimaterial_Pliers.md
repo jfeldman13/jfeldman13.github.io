@@ -90,4 +90,4 @@ As mentioned, [hinges](https://www.howtogeek.com/print-in-place-models-are-the-r
 }
 </style>
 
-{% include feature_row %}
+{% include feature_row type="half" %}
