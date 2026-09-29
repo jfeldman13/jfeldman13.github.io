@@ -74,9 +74,11 @@ As mentioned, [hinges](https://www.howtogeek.com/print-in-place-models-are-the-r
 | Nozzle | 0.6mm (Blue) |
 | Material Used | TPU (Flexible Portion), PLA (Jaws, Handles) |
 
+
+
 <style>
 .feature__wrapper .archive__item-teaser {
-  height: 220px;
+  height: 350px;
   overflow: hidden;
 }
 
