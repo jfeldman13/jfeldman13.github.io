@@ -12,17 +12,12 @@ toc_icon: bars
 
 feature_row:
   - image_path: assets/img/Plier_IRL.jpeg
-    alt: "Columbia GSAPP Summer Program"
-    title: "Columbia GSAPP Summer Program"
-    excerpt: "Reimagined Columbia's Business School and Housing through innovative design and experimentation."
+    alt: "Pliers"
+    excerpt: "The plier design uses print-in-place modeling to consist of both stiff and flexible parts."
   - image_path: assets/img/3d-printed-toolbox-with-hinge-in-view.avif
-    alt: "Rock Creek Property Group"
-    title: "Rock Creek Property Group"
-    excerpt: "Designed and presented a building proposal for a multi-use high rise."
-  - image_path: /assets/img/6bf98a82-6028-4241-bd25-b51657dc3693.jpg
-    alt: "Sshape Architecture and Interior Design"
-    title: "Sshape Architecture and Interior Design"
-    excerpt: "Collaborated with contractors, owners, clients, and superintendents, from ideation to post-construction."
+    alt: "Toolbox"
+    excerpt: "This toolbox showcases an advantage of print-in-place modeling: parts can be connected yet pivotable by creating hinges."
+ 
 ---
 
 The intention of this project is to create a functional plier design on Fusion, and incorporate multimaterial 3D-printing methods to construct a physical product. These pliers are capable of presisely picking up a through hole resistor, whose diameter measures only about 2.5mm.
