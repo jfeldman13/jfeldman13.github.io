@@ -10,8 +10,6 @@ toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
 
-classes: wide
-
 feature_row:
   - image_path: assets/img/Plier_IRL.jpeg
     alt: "Pliers"
